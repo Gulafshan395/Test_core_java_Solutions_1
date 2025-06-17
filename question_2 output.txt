@@ -1,0 +1,7 @@
+Product ID: 101, Name: Laptop, Price: 50000.0, Quantity: 5
+Product ID: 102, Name: Mouse, Price: 0.0, Quantity: 0
+Product ID: 102, Name: Mouse, Price: 500.0, Quantity: 10
+Product ID: 103, Name: Keyboard, Price: 1500.0, Quantity: 0
+Product ID: 104, Name: Monitor, Price: 12000.0, Quantity: 3
+Exception: Price and quantity must be non-negative!
+Exception: Price and quantity must be non-negative!

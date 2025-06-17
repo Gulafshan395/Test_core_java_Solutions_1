@@ -1,0 +1,22 @@
+-----------Hello Captain Gulafshan here Good Morning-------
+Flight Number: D123
+Origin: Delhi
+Destination: Mumbai
+Base Fare: 5000.0
+Flight Type: Domestic
+Total Fare (with 10% domestic tax): 5500.0
+-----------Hello Captain Gulafshan here Good Morning-------
+Flight Number: I456
+Origin: Delhi
+Destination: London
+Base Fare: 30000.0
+Flight Type: International
+Immigration Fee: 5000.0
+Total Fare (with 20% international tax + immigration fee): 41000.0
+-----------Hello Captain Gulafshan here Good Morning-------
+Flight Number: D789
+Origin: Chennai
+Destination: Bangalore
+Base Fare: 4000.0
+Flight Type: Domestic
+Total Fare (with 10% domestic tax): 4400.0
